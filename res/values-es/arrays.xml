@@ -37,14 +37,14 @@
         <item>Mostrar recientes</item>
         <item>Ajustes Android</item>
         <item>Apagar la pantalla</item>
-        <item>Cambio en la base</item>
+        <item>Cambio en la Base</item>
         <item>Abrir app</item>
     </string-array>
 
     <string-array name="gesture_actions_entries_limited">
         <item>Ninguno</item>
         <item>Cajón de Aplicaciones</item>
-        <item>Cambio en la base</item>
+        <item>Cambio en la Base</item>
     </string-array>
 
     <string-array name="general_scroll_devider_entries">
